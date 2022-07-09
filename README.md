@@ -31,7 +31,7 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/74274650/178120249-bd7c9ff6-090a-4d5e-823c-bf33a0f39587.gif">
 
   
-  ##![jake]()
+ 
 
  
 <div> 
