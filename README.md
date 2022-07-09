@@ -8,7 +8,7 @@
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
-  <a href="https://github.com/vitormarcelli">
+  <a target="_blank" href="https://github.com/vitormarcelli">
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitormarcelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
@@ -38,10 +38,10 @@
 
  
 <div style="display: inline_block"> 
-  <a href="https://www.instagram.com/eomarcelli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/eovks_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitoraugustomarcelli19102002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-augusto-marcelli-dos-santos-ba4070220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href="https://www.instagram.com/eomarcelli_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a target="_blank" href="https://www.twitch.tv/eovks_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a target="_blank" href = "mailto:vitoraugustomarcelli19102002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/vitor-augusto-marcelli-dos-santos-ba4070220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/vitormarcelli/vitormarcelli/blob/output/github-contribution-grid-snake.svg)
  
