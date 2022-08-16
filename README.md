@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com Banco de Dados
+- 🔭 Hoje estou livre no mercado!
 - 🌱 Estudando JS, HTML, CSS, PHP, FRONT-END e BACK-END
 - 📫 Envie um email para: vihmarcellisantos@outlook.com / vitoraugustomarcelli19102002@gmail.com
 - 😄 Pronouns: ele/dele.
