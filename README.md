@@ -9,6 +9,7 @@
 </ul>
 
 <div align="center">
+   <h2 style="font-weight: bold; font-size: 18px"> Minhas especialidades: </h2>
   <a target="_blank" href="https://github.com/vitormarcelli">
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitormarcelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
