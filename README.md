@@ -3,7 +3,7 @@
 
 <ul style="display: flex; flex-direction: column; list-style: none;">
 <li> - 🔭 Hoje estou livre no mercado!</li>
-<li> - 🌱 Estudando JS, HTML, CSS, PHP, FRONT-END e BACK-END</li>
+<li> - 🌱 Estudando JS, HTML, CSS, PHP, JAVA, FRONT-END e BACK-END</li>
 <li> - 📫 Envie um email para: vihmarcellisantos@outlook.com / vitoraugustomarcelli19102002@gmail.com</li>
 <li> - 😄 Pronouns: ele/dele.</li>
 </ul>
